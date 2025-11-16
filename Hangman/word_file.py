@@ -1,0 +1,10 @@
+words=[
+    "lavanya",
+    "veerendra",
+    "ratakonda",
+    "chinnayagari",
+    "apple",
+    "banana",
+    "strawberry",
+    "attitude",
+    "mango"]
